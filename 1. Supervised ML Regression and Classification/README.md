@@ -15,24 +15,6 @@ This course is part of the Machine Learning Specialization.
 - Gradient Descent
 - Learning Rate
 
-### Notes
-
-- Cost Function for Linear Regression
-
-```octave
-J(theta) = 1/2m * sum((h(x) - y)^2)
-```
-
-- Gradient Descent for Linear Regression
-
-```octave
-theta = theta - alpha * 1/m * sum((h(x) - y) * x)
-```
-
-- We must update all thetas simultaneously
-
-- Batch Gradient Descent: Each step of gradient descent uses all the training examples
-
 ## Week 2: Linear Regression
 
 ### Key Concepts
@@ -49,24 +31,6 @@ theta = theta - alpha * 1/m * sum((h(x) - y) * x)
 - Classification and Representation
 - Logistic Regression Model
 - Multiclass Classification
-
-### Notes
-
-...
-
-## Assignments
-
-### Week 1
-
-...
-
-### Week 2
-
-...
-
-### Week 3
-
-...
 
 ## References
 

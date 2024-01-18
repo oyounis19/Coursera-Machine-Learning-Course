@@ -1,5 +1,5 @@
 # Machine Learning Specialization 
-**By Andrew Ng, Stanford University and DeepLearning.ai**
+**By Andrew Ng, Stanford University, and DeepLearning.ai**
 
 Welcome to my repository for the Machine Learning specialization by Andrew Ng! 🤖 Whether you're a beginner or a seasoned ML enthusiast, you're in the right place to dive deep into the world of algorithms and artificial intelligence.
 

@@ -7,19 +7,19 @@ Welcome to my repository for the Machine Learning specialization by Andrew Ng! 
 
 - **Notes:** Comprehensive summaries of each week.
 - **Notebooks:** Labs mentioned in the courses.
-- **Programming Assignments:** My solutions to the programming assignments. TODO:
+- **Programming Assignments:** My solutions to the programming assignments. (In progress)
 - **Projects:** Models implemented from scratch (using Numpy).
     - **Linear Regression**
     - **Logistic Regression**
     - **Decision Trees**
-    - **K-Means Clustering** TODO:
+    - **K-Means Clustering** (In progress)
 - **TensorFlow Project**: Project using TensorFlow.
     - **minist**: Handwritten digit recognition using TensorFlow.
 - **Certificates:** My Certificates of Completion.
 
 ## üåê Specialization Overview
 
-This repository is part of the <a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank">Machine Learning Specialization</a> on Coursera. The specialization covers a wide range of ML concepts, from foundational principles to advanced topics such as deep learning.
+This repository is part of the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera. The specialization covers a wide range of ML concepts, from foundational principles to advanced topics such as deep learning.
 
 ### Specialization Courses:
 

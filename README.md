@@ -19,7 +19,7 @@ Welcome to my repository for the Machine Learning specialization by Andrew Ng! 
 
 ## üåê Specialization Overview
 
-This repository is part of the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"} on Coursera. The specialization covers a wide range of ML concepts, from foundational principles to advanced topics such as deep learning.
+This repository is part of the <a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank">Machine Learning Specialization</a> on Coursera. The specialization covers a wide range of ML concepts, from foundational principles to advanced topics such as deep learning.
 
 ### Specialization Courses:
 

@@ -7,12 +7,12 @@ Welcome to my repository for the Machine Learning specialization by Andrew Ng! ð
 
 - **Notes:** Comprehensive summaries of each week.
 - **Notebooks:** Labs mentioned in the courses.
-<!-- - **Programming Assignments:** My solutions to the programming assignments. TODO: -->
+- **Programming Assignments:** My solutions to the programming assignments. TODO:
 - **Projects:** Models implemented from scratch (using Numpy).
     - **Linear Regression**
     - **Logistic Regression**
     - **Decision Trees**
-    <!-- - **K-Means Clustering** TODO: -->
+    - **K-Means Clustering** TODO:
 - **TensorFlow Project**: Project using TensorFlow.
     - **minist**: Handwritten digit recognition using TensorFlow.
 - **Certificates:** My Certificates of Completion.

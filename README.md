@@ -29,7 +29,7 @@ This repository is part of the [Machine Learning Specialization](https://www.cou
 
 ## 🚀 Getting Started
 
-1. Clone the repository: `git clone https://github.com/oyounis19/Coursera-Machine-Learning-Course.git`
+1. Clone the repository: `[git clone repo_link](git clone https://github.com/oyounis19/Coursera-Machine-Learning-Course.git)`
 2. Explore the folders for notes and notebooks.
 3. Dive into the topics you're interested in and enhance your ML skills!
 

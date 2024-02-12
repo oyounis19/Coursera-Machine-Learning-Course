@@ -47,3 +47,5 @@ This course is part of the Machine Learning Specialization.
 ## References
 
 - [Course Link](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+
+- [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/JQB6HXQALFUD)

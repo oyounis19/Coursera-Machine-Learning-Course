@@ -35,3 +35,5 @@ This course is part of the Machine Learning Specialization.
 ## References
 
 - [Course Link](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+
+- [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/AZ2BJZTVC5NX)
